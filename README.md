@@ -1,4 +1,4 @@
-# Hello, I'm Umang Hirani 👋  
+# Hello, I'm Umang Hirani !
 
 🎓 B.Tech in Information & Communication Technology @ Marwadi University (CGPA: 9.48)  
 💻 Passionate about **AI, Web Development and Audio Programming**  
