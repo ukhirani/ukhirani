@@ -7,7 +7,7 @@
 
 
 ## Tech Stack (and the things I'm learning)
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,php,js,ts,dart,r,go,html,css,tailwind,flask,react,nodejs,express,mysql,supabase,firebase,docker,git,neovim,vim,gcp,aws&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,php,js,ts,dart,r,go,html,css,tailwind,flask,react,nodejs,cmake,mysql,supabase,firebase,docker,git,neovim,vim,gcp,aws&perline=13)](https://skillicons.dev)
 
 
 
